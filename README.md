@@ -1,1 +1,2 @@
-[![Language](https://img.shields.io/badge/Language-JavaScript-yellow)](https://www.javascript.com/)
+Age Calculator
+built by Saruf Khan
