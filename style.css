@@ -14,6 +14,7 @@ div {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+
 }
 
 h2 {
@@ -52,10 +53,4 @@ button:hover {
 
 .createdBy {
   color: #888;
-}
-
-@media only screen and (max-width: 600px) {
-  #createdBySection {
-    text-align: center;
-  }
 }
