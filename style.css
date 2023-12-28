@@ -49,3 +49,13 @@ button:hover {
     font-weight: bold;
     color: #333;
 }
+
+.createdBy {
+  color: #888;
+}
+
+@media only screen and (max-width: 600px) {
+  #createdBySection {
+    text-align: center;
+  }
+}
